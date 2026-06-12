@@ -9,14 +9,6 @@ Currently learning:
 - Deep Learning
 - Artificial Intelligence
 
-
-## Featured Projects
-
-- Face Recognition System
-- Duplicate File Finder
-- Age Calculator
-- QR Code Generator
-
 ## Goals
 
 - Build real-world Python projects
