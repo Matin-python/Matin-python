@@ -6,7 +6,9 @@ Currently learning:
 - Python
 - Computer Vision
 - Machine Learning
+- Deep Learning
 - Artificial Intelligence
+
 
 ## Featured Projects
 
